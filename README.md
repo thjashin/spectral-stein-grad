@@ -10,7 +10,7 @@ https://arxiv.org/abs/1806.04326
 ```
 python -m toy.guassian
 ```
-![toy_results](results/gaussian.png)
+<img src="results/gaussian.png" width="600">
 
 ### Implicit VAEs
 Train plain VAE on CelebA:
