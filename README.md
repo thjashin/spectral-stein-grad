@@ -1,6 +1,6 @@
 # spectral-stein-grad
 Code for "A Spectral Approach to Gradient Estimation for Implicit Distributions" (ICML 18)
-https://arxiv.org/abs/1806.04326
+https://arxiv.org/abs/1806.02925
 
 ## Dependencies
 * [Tensorflow >= 1.8](https://www.tensorflow.org)
