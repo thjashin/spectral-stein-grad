@@ -3,6 +3,8 @@
 **Update:** Please find our latest python library for nonparametric score estimation (including the spectral estimator) at
 https://github.com/miskcoo/kscore
 
+---
+
 This repository contains the official code for
 
 ### A Spectral Approach to Gradient Estimation for Implicit Distributions (ICML 18)
